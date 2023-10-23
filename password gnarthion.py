@@ -39,6 +39,3 @@ elif input == "12":
 
 else:
     print("your choice is not true")
-
-    TOKEN: Final = "6612038003:AAEcAnlNksa7XN3QFWwA7y_W59P4ubMtGbQ"
-    BOT_USERNAME: Final = "@im_passbot"
